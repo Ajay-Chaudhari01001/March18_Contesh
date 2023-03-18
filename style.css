@@ -48,7 +48,7 @@ body {
 
 .heading {
     padding: 0 60px;
-    height: 60px;
+    height: 70px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -70,13 +70,13 @@ body {
 }
 
 .navbar ul li a{
-    font-weight: 500;
+    font-weight: 400;
     color: var(--font-color);
 }
 
 .logo {
-    font-weight: 700;
-    font-size: 27px;
+    font-weight: 800;
+    font-size: 30px;
     line-height: 50px;
     color: var(--font-color);
 }
